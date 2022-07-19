@@ -1,14 +1,13 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "HYPOTYPOSIS'S SITE",
+  "name": "hypotyposis",
+  "ascii": "Akina Cool",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "github"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "hypotyposis@outlook.com",
+  "ps1_hostname": "akinacool",
   "ps1_username": "visitor",
   "repo": "https://github.com/Cveinnt/LiveTerm",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
